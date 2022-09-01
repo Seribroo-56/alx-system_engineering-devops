@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m drwxr-x--x dir_school
+mkdir -m 751 dir_my_dir
